@@ -1,0 +1,10 @@
+{
+    "Job_Title": "Computer Vision Engineer",
+     "min_year": "2",
+    "max_year": "5",
+    "Skill1": "Problem Solving Skills",
+    "Skill2": "Communication Skills",
+    "Skill3": "Technical skills",
+    "NumberOfQuestions": "6",
+    "Tools": "TensorFlow, PyTorch, MatLab, Point Cloud Library"
+}
